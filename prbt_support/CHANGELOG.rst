@@ -2,6 +2,11 @@
 Changelog for package prbt_support
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Set proper controller frequency in gazebo
+* Contributors: Pilz GmbH and Co. KG
+
 0.5.10 (2019-10-08)
 -------------------
 
