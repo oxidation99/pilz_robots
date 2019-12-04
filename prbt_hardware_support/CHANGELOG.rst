@@ -2,6 +2,21 @@
 Changelog for package prbt_hardware_support
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.5.13 (2019-12-04)
+-------------------
+* Use brake-test definitions from pilz_msgs
+* Contributors: Pilz GmbH and Co. KG
+
+0.5.12 (2019-11-28)
+-------------------
+* Remove srv definition for speed override (moved to the package pilz_msgs)
+* Contributors: Pilz GmbH and Co. KG
+
+0.5.11 (2019-11-22)
+-------------------
+* Fix clang compiler errors (#283)
+* Contributors: Pilz GmbH and Co. KG
+
 0.5.10 (2019-10-08)
 -------------------
 * Add missing dependency on tf2_geometry_msgs (`#264 <https://github.com/PilzDE/pilz_robots/issues/264>`_)
